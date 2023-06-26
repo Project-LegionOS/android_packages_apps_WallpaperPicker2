@@ -29,4 +29,4 @@
         android:layout_height="match_parent"
         android:layout_marginVertical="@dimen/section_container_vertical_margin"
         android:orientation="vertical" />
-</androidx.core.widget.NestedScrollView>
+</com.android.customization.picker.HorizontalTouchMovementAwareNestedScrollView>
